@@ -25,5 +25,6 @@ Bem-vindo ao meu perfil do GitHub! Sou um Desenvolvedor Frontend Sênior com mai
 ## 📫 Como me encontrar:
 - 📧 E-mail: [lucasa.barros@outlook.com](mailto:lucasa.barros@outlook.com)
 - 📞 Telefone: +55 (16) 99753-8201
+- 🔗 LinkedIn: linkedin.com/in/lucasbarrossilva
 
 Sinta-se à vontade para entrar em contato se estiver interessado em uma colaboração ou quiser discutir qualquer aspecto da tecnologia!
