@@ -2,7 +2,7 @@
 
 Sou **Desenvolvedor Front-End Sênior** com mais de **10 anos de experiência** no desenvolvimento de aplicações escaláveis e de alta performance.
 
-Atuo principalmente com **React, Next.js, Angular, JavaScript e TypeScript**, participando de todo o ciclo de desenvolvimento — da análise de requisitos e definição da arquitetura ao deploy e monitoramento em produção.
+Atuo principalmente com **React, Next.js, Angular, Vue, JavaScript e TypeScript**, participando de todo o ciclo de desenvolvimento — da análise de requisitos e definição da arquitetura ao deploy e monitoramento em produção.
 
 ## 🚀 Experiência técnica
 
