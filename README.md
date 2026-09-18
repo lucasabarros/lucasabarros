@@ -1,30 +1,44 @@
-# 👋 Olá, eu sou o [Lucas Barros](https://www.linkedin.com/in/lucas-barros/)
+# 👋 Olá, eu sou o [Lucas Barros](https://www.linkedin.com/in/lucasbarrossilva)
 
-Bem-vindo ao meu perfil do GitHub! Sou um Desenvolvedor Frontend Sênior com mais de 7 anos de experiência em criar interfaces dinâmicas e intuitivas. Aqui está um pouco mais sobre mim:
+Sou **Desenvolvedor Front-End Sênior** com mais de **10 anos de experiência** no desenvolvimento de aplicações escaláveis e de alta performance.
 
-## 👀 Estou interessado em:
-- Construir interfaces de usuário fluídas e responsivas com **React.js**, **Vue.js** e **Next.js**.
-- Utilizar **TypeScript** e **JavaScript ES6+** para criar aplicações robustas e escaláveis.
-- Explorar soluções inovadoras e tecnológicas, com um foco especial em projetos que desafiem o status quo.
-- Implementar **Micro Frontends** para aprimorar a modularidade e eficiência no desenvolvimento.
+Atuo principalmente com **React, Next.js, Angular, JavaScript e TypeScript**, participando de todo o ciclo de desenvolvimento — da análise de requisitos e definição da arquitetura ao deploy e monitoramento em produção.
 
-## 🌱 Atualmente, estou aprendendo:
-- Aprofundando meu conhecimento em processos e ferramentas de **CI/CD** como **GitLab** e **GitHub Actions**.
-- Explorando capacidades avançadas do **Node.js** e integrações no lado do servidor.
-- Melhorando minhas habilidades em **otimização de performance**, **acessibilidade** e **SEO**.
+## 🚀 Experiência técnica
 
-## 💞️ Estou buscando colaborar em:
-- Projetos inovadores e tecnológicos que envolvam desafios interessantes e soluções criativas.
-- Iniciativas que focam na criação de **Design Systems** e bibliotecas de componentes reutilizáveis.
-- Equipes que valorizam **código limpo**, **padrões de design** e uma abordagem colaborativa ao desenvolvimento.
+* Desenvolvimento de aplicações com **React, Next.js e Angular**
+* Arquitetura e governança de mais de **20 Micro Frontends** com **Webpack Module Federation**
+* Aplicações de alta escalabilidade, com picos superiores a **10 mil usuários simultâneos**
+* Gerenciamento de estados com **Redux, Zustand e Context API**
+* Integração com **APIs REST e GraphQL**
+* Desenvolvimento de serviços e soluções Back-End com **Node.js**
+* Testes automatizados com **Jest, Testing Library e Cypress**
+* Pipelines de **CI/CD** com GitLab CI/CD e GitHub Actions
+* Deploy e distribuição de aplicações na **AWS**
+* Monitoramento de aplicações e análise de performance com **Datadog**
+* Criação de **Design Systems** e componentes reutilizáveis
+* Otimização de performance, acessibilidade e SEO
 
-## ⚡ O que você pode esperar de mim:
-- Expertise na criação de soluções escaláveis e de alta performance, com um forte foco na otimização de código e boas práticas de desenvolvimento.
-- Capacidade de colaborar efetivamente com equipes multidisciplinares e adaptar-me rapidamente a novas tecnologias e desafios.
+## 🏗️ Arquitetura e qualidade
 
-## 📫 Como me encontrar:
-- 📧 E-mail: [lucasa.barros@outlook.com](mailto:lucasa.barros@outlook.com)
-- 📞 Telefone: +55 (16) 99753-8201
-- 🔗 LinkedIn: linkedin.com/in/lucasbarrossilva
+Tenho experiência na definição de responsabilidades entre aplicações, contratos de integração e padrões que permitem a evolução e publicação independente de Micro Frontends.
 
-Sinta-se à vontade para entrar em contato se estiver interessado em uma colaboração ou quiser discutir qualquer aspecto da tecnologia!
+Também atuo na definição da estratégia de testes automatizados e sua execução nos pipelines de CI/CD, buscando reduzir validações redundantes e manter a segurança das entregas.
+
+## 🤖 Inteligência Artificial
+
+Desenvolvo agentes de IA baseados em **LLMs com Claude**, utilizando Prompt Engineering para apoiar:
+
+* Análise e implementação de funcionalidades
+* Automação de testes
+* Geração e revisão de código
+* Investigação e resolução de problemas
+
+## 🤝 Atuação técnica
+
+Atuo como referência técnica em decisões de arquitetura e padronização, realizando **code reviews**, apoiando desenvolvedores por meio de mentorias e alinhando soluções com as equipes de **UX, Produto e Back-End**.
+
+## 📫 Contato
+
+* 📧 [lucasa.barros@outlook.com](mailto:lucasa.barros@outlook.com)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/lucasbarrossilva)
